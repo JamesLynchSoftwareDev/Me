@@ -1,1 +1,1 @@
-# Me
+Hello im James Lynch a new graduate in HDIP Software Dev Java. I am interested in learning more about coding in Java and JavaScript. I love learning about coding and the many computer Languages to learn!
